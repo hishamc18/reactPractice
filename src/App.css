@@ -1,0 +1,17 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(45, 201, 240);
+  min-height: 100vh;
+  gap: 10em;
+}
+
+.App div{
+  text-align: center;
+}
