@@ -33,6 +33,7 @@ function NameList() {
 
   return (
     <div>
+        <h1 style={{color: "Yellow"}}>List and Keys</h1>
         {Info}
         {/* <h1>{names[0]}</h1> 
         <h1>{names[2]}</h1> 
